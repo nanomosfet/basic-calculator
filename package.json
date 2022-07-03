@@ -1,0 +1,20 @@
+{
+  "name": "basic-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "type":"module",
+  "main": "basic-calculator.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanomosfet/basic-calculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nanomosfet/basic-calculator/issues"
+  },
+  "homepage": "https://github.com/nanomosfet/basic-calculator#readme"
+}
